@@ -1,0 +1,21 @@
+{
+  "name": "wechat-oauth-wrap",
+  "private": true,
+  "version": "0.0.1",
+  "description": "weixin api",
+  "keywords": ["wechat-oauth", "wechat-oauth-wrap", "wechat-oauth-api", "wechat"],
+  "dependencies": {
+    "wechat-oauth": "~1.0.1",
+    "wechat-api": "~1.8.1"
+  },
+  "scripts": {
+
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/navy/weixin-wrap.git"
+  },
+  "author": "navy",
+  "license": "ISC"
+}
