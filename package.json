@@ -1,6 +1,5 @@
 {
   "name": "wechat-oauth-wrap",
-  "private": true,
   "version": "0.0.1",
   "description": "weixin api",
   "keywords": ["wechat-oauth", "wechat-oauth-wrap", "wechat-oauth-api", "wechat"],
